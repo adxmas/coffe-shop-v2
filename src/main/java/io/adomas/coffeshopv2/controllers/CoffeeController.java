@@ -11,6 +11,7 @@ import java.util.List;
 
 @RestController
 //TODO: prideti, kad cia butu /api/v1
+//test
 public class CoffeeController {
 
     @Autowired
